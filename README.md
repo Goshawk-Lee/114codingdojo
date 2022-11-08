@@ -8,7 +8,6 @@ Repo owner : goshawk.lee@hotmail.com , 申請權限 e-mail to owner
 </picture><br/> 
 2. 上傳完成後, 點選該程式, 複製該程式的網址 e.g. : https://github.com/Goshawk-Lee/114codingdojo/blob/main/hello-2.cpp <br/>
 3. 再到 "O Issues" 分頁,  建立新的 issue 輸入問題內容 (附上該程式的網址) , [O Issues] 分頁 -> [New issue] <br/>
-![create issue](https://user-images.githubusercontent.com/84573828/200483905-b0fdd8c6-e72e-45c1-8ca9-5eae7b54a42c.JPG) <br/>
 <picture>
 <img alt="create issuee" src="assets/images/114codingdojo_issue2.jpg" width=700>
 </picture><br/>
