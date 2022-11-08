@@ -2,13 +2,13 @@
 using namespace std;
 int main ()
 {  
-    int i,j,m,r;
-    int inputcount, empty_count, source_value, tmp_count, location_index;
+  int i,j,m,r;
+  int inputcount, empty_count, source_value, tmp_count, location_index;
 	m = 51;
 	int sourcearray[m], mappingtable[m];
   int targetarray[m]= {};
 
-    /*
+  /*
     inputcount=9;
     // 題目: 由1開始之連續數字a1.a2.a3...an
     int sourcearray[inputcount] = {1,2,3,4,5,6,7,8,9};
@@ -18,7 +18,7 @@ int main ()
     // 答案要輪出至 targetarray, 一開始全部為空白值:0, 0代表空白/空格 依反轉表轉出為: { 5 9 1 8 2 6 4 7 3 }
     int targetarray[inputcount] = {0,0,0,0,0,0,0,0,0};
 	*/
-// 依序輪入 2[Enter]3[Enter]6[Enter]4[Enter]0[Enter]2[Enter]2[Enter]1[Enter]0[Enter]-1
+// 依序輪入 2[Enter]3[Enter]6[Enter]4[Enter]0[Enter]2[Enter]2[Enter]1[Enter]0[Enter]-1[Enter]
 // 最後的 -1 表示輪入結束, 下一行輸出結果:  5 9 1 8 2 6 4 7 3
     inputcount=0;
     for (i=0; i< m; i++)
