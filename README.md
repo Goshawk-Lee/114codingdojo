@@ -3,7 +3,8 @@
 Repo owner : goshawk.lee@hotmail.com , 申請權限 e-mail to owner 
 <p> Steps : <br/>
 1. 先在 "<> Code" 分頁, 上傳程式 [<>Code] 分頁 -> [Add file] -> [Upload files]<br/>
-![image](https://github.com/Goshawk-Lee/114codingdojo/blob/main/114codingdojo_issue2.JPG)<br/>
+![uploadfile](https://user-images.githubusercontent.com/84573828/200483666-fbeed818-de1f-4fcd-94ca-f4a1f128a544.jpg) <br/>
 2. 上傳完成後, 點選該程式, 複製該程式的網址 e.g. : https://github.com/Goshawk-Lee/114codingdojo/blob/main/hello-2.cpp <br/>
 3. 再到 "O Issues" 分頁,  建立新的 issue 輸入問題內容 (附上該程式的網址) , [O Issues] 分頁 -> [New issue] <br/>
+![create issue](https://user-images.githubusercontent.com/84573828/200483905-b0fdd8c6-e72e-45c1-8ca9-5eae7b54a42c.JPG) <br/>
 4. 同一問題 , 會在同一 issue 內討論, 直到 close 為止  <br/>
