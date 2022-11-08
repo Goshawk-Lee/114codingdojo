@@ -1,3 +1,5 @@
+// ZeroJudge - d166: 反轉表  解題說明
+// reference article : https://home.gamer.com.tw/artwork.php?sn=5130539 
 #include <iostream>
 using namespace std;
 int main ()
