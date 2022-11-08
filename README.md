@@ -1,5 +1,5 @@
 # 114 Coding Dojo
-114 資訊課 C/C++ 程式, 有問題, 需要找人問題的平台
+114 資訊課 C/C++ 程式, 有問題, 需要找人問題的平台 (要先申請權限,才能問問題)
 <p> Steps : <br/>
 1. 先在 "<> Code" 分頁, 上傳程式 [<>Code] 分頁 -> [Add file] -> [Upload files]<br/>
 2. 上傳完成後, 點選該程式, 複製該程式的網址 e.g. : https://github.com/Goshawk-Lee/114codingdojo/blob/main/hello-2.cpp <br/>
